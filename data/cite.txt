@@ -1,0 +1,6 @@
+Data retrived from:
+
+https://www.openslr.org/99/
+https://www.kaggle.com/code/sanzidaakterarusha/working-with-audio-in-python/data
+https://miai.vn/2019/10/27/day-cho-may-tinh-nghe-va-phan-biet-am-thanh-bang-cnn/
+
