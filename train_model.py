@@ -93,7 +93,7 @@ valid_generator_vgg=datagen.flow_from_dataframe(
     class_mode="categorical",
     target_size=(224,224))
 '''
-# Khoi tao model
+# intialize model
 model = Sequential()
 model.add(Conv2D(32, (3, 3), padding='same',
                  input_shape=(64,64,3)))
